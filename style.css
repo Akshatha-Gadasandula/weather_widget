@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: #f4f4f9;
+    background-image: url(image1.png);
+    background-size: cover;
+    font-family: cursive;
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    font-family:cursive;
+}
+
+input, button {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 16px;
+    background-color: azure;
+    color: black;
+    font-family: cursive;
+}
+button{
+    background-color: rgb(4, 6, 101);
+    color: azure;
+}
+#weatherData {
+    margin-top: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color:black;
+    background-color: rgb(240, 242, 244);
+    border-radius: 16px;
+}
+footer{
+    text-align: center;
+    margin-top: 300px;
+}
